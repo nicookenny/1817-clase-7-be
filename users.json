@@ -1,0 +1,18 @@
+[
+  {
+    "ID": "0772a713-853d-4b9f-aeba-2dfdfff81fb6",
+    "name": "nico",
+    "lastname": "kenny",
+    "email": "nicokenny",
+    "birthdate": "08/08/1998",
+    "address": "asd"
+  },
+  {
+    "ID": "29ac5132-2c1f-478a-8b79-9b71ad736ce4",
+    "name": "nico",
+    "lastname": "kenny",
+    "email": "nicokenny1",
+    "birthdate": "08/08/1998",
+    "address": "asd"
+  }
+]
